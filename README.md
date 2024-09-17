@@ -26,7 +26,7 @@ I'm Nyri, a 14-year-old developer from America with a passion for game hacking a
 ---
 
 ## Fun Facts 🎮
-- I’m part of **ember.win**, where we build game tools and cheats focused on privacy, and we’re going open source more every day.
+- I’m part of **ember.win**, where we build websites and cheats focused on privacy, and we’re going open source more every day.
 - I focus on making affordable yet high-quality tools for gaming communities.
 
 ---

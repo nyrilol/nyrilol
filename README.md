@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Nyri</h1>
 <h3 align="center">A Universal Developer from Latvia</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nyrilol&label=Profile%20views&color=0e75b6&style=flat" alt="nyrilol" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nyrilol" alt="nyrilol" />
-  </a>
-</p>
-
 - 🌟 I’m currently working on [ember.win](https://github.com/ember-win)
 - 📚 I’m passionate about open-source projects and privacy-focused software.
 

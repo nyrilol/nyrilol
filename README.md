@@ -1,7 +1,7 @@
 # Hi, I'm Nyri 👋
 
 ## About Me
-I'm Nyri, a 14-year-old developer from Latvia with a passion for game hacking and reverse engineering. I love diving deep into code, breaking things apart to see how they tick, and building tools that push the limits in games. My main focus is **C++**, but I’m also familiar with **C#**, **Python**, **Flask**, **HTML**, and **CSS**.
+I'm Nyri, a 14-year-old developer from America with a passion for game hacking and reverse engineering. I love diving deep into code, breaking things apart to see how they tick, and building tools that push the limits in games. My main focus is **C++**, but I’m also familiar with **C#**, **Python**, **Flask**, **HTML**, and **CSS**.
 
 ### What I Do 🛠️
 - **Game Hacking**: I create external/internal tools, cheats, and game mods.

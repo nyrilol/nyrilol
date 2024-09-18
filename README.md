@@ -14,7 +14,7 @@ i'm nyri, a 14-year-old developer from america who loves game hacking and revers
 - **python**: great for quick scripts, automation, and prototyping.
 - **flask**: lightweight and awesome for web apps.
 - **c#**: still learning, but it’s handy for making utilities.
-- **html/css**: for making things look cool on the web!
+- **html/css**: good enough to make stuff look nice.
 
 ---
 

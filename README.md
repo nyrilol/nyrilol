@@ -1,35 +1,35 @@
-# Hi, I'm Nyri 👋
+# hi, i'm nyri 👋
 
-## About Me
-I'm Nyri, a 14-year-old developer from America with a passion for game hacking and reverse engineering. I love diving deep into code, breaking things apart to see how they tick, and building tools that push the limits in games. My main focus is **C++**, but I’m also familiar with **C#**, **Python**, **Flask**, **HTML**, and **CSS**.
+## about me
+i'm nyri, a 14-year-old developer from america who loves game hacking and reverse engineering! ^-^ i enjoy digging deep into code, breaking stuff apart to see how it all works, and building tools to push the limits in games. my main focus is **c++**, but i also mess around with **c#**, **python**, **flask**, **html**, and **css**.
 
-### What I Do 🛠️
-- **Game Hacking**: I create external/internal tools, cheats, and game mods.
-- **Reverse Engineering**: Taking apart software to make new opportunities or uncover hidden features.
-- **Web Development**: Small but powerful apps built with Flask and web technologies.
-- **Open Source**: Contributor to various projects focusing on privacy and free, accessible tools.
+### what i do 🛠️
+- **game hacking**: i make external/internal tools, cheats, and mods for games.
+- **reverse engineering**: i take apart software to unlock new possibilities or uncover hidden features.
+- **web development**: i build small, but powerful apps using flask and web tech.
+- **open source**: i contribute to projects that focus on privacy and creating free, accessible tools.
 
-### Languages & Tools 💻
-- **C++**: My primary language for game hacking and low-level programming.
-- **Python**: Perfect for quick scripts, automation, and prototyping.
-- **Flask**: Lightweight and powerful for web applications.
-- **C#**: Still learning, but handy for making utilities.
-- **HTML/CSS**: To make things look good on the web.
-
----
-
-## Stats 🚀
-
-![Nyri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyrilol&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyrilol&layout=compact&theme=radical)
+### languages & tools 💻
+- **c++**: my go-to language for game hacking and low-level stuff.
+- **python**: great for quick scripts, automation, and prototyping.
+- **flask**: lightweight and awesome for web apps.
+- **c#**: still learning, but it’s handy for making utilities.
+- **html/css**: for making things look cool on the web!
 
 ---
 
-## Fun Facts 🎮
-- I’m part of **ember.win**, where we build websites and cheats focused on privacy, and we’re going open source more every day.
-- I focus on making affordable yet high-quality tools for gaming communities.
+## stats 🚀
+
+![nyri's github stats](https://github-readme-stats.vercel.app/api?username=nyrilol&show_icons=true&theme=radical&count_private=true)  
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyrilol&layout=compact&theme=radical)
 
 ---
 
-## Get In Touch ☎️
-If you're interested in gaming, open source projects, or just chatting about reverse engineering, feel free to reach out!
+## fun facts 🎮
+- i'm part of **ember.win**, where we create websites and cheats with a focus on privacy. we're going more open source every day!
+- i love making everyone's life easier by making free alternatives to stuff that shouldn't be paid! 
+
+---
+
+## get in touch ☎️
+if you're into gaming, open source projects, or just wanna chat about reverse engineering, feel free to reach out! :)
